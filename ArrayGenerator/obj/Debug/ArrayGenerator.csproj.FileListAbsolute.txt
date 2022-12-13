@@ -1,0 +1,11 @@
+C:\Users\artur\Desktop\ArrayGenerator\ArrayGenerator\bin\Debug\ArrayGenerator.exe.config
+C:\Users\artur\Desktop\ArrayGenerator\ArrayGenerator\bin\Debug\ArrayGenerator.exe
+C:\Users\artur\Desktop\ArrayGenerator\ArrayGenerator\bin\Debug\ArrayGenerator.pdb
+C:\Users\artur\Desktop\ArrayGenerator\ArrayGenerator\obj\Debug\ArrayGenerator.csproj.AssemblyReference.cache
+C:\Users\artur\Desktop\ArrayGenerator\ArrayGenerator\obj\Debug\ArrayGenerator.csproj.SuggestedBindingRedirects.cache
+C:\Users\artur\Desktop\ArrayGenerator\ArrayGenerator\obj\Debug\ArrayGenerator.FrmArrayGenerator.resources
+C:\Users\artur\Desktop\ArrayGenerator\ArrayGenerator\obj\Debug\ArrayGenerator.Properties.Resources.resources
+C:\Users\artur\Desktop\ArrayGenerator\ArrayGenerator\obj\Debug\ArrayGenerator.csproj.GenerateResource.cache
+C:\Users\artur\Desktop\ArrayGenerator\ArrayGenerator\obj\Debug\ArrayGenerator.csproj.CoreCompileInputs.cache
+C:\Users\artur\Desktop\ArrayGenerator\ArrayGenerator\obj\Debug\ArrayGenerator.exe
+C:\Users\artur\Desktop\ArrayGenerator\ArrayGenerator\obj\Debug\ArrayGenerator.pdb
