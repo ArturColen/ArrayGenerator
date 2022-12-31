@@ -17,10 +17,9 @@ namespace ArrayGenerator
             InitializeComponent();
         }
 
-        // Creating the vector
         int[] vector;
 
-        // Method to create the vector
+        // Create a vector with the size provided by the user
         private void btnCreate_Click(object sender, EventArgs e)
         {
             if (txtQuantity.Text == "0")
@@ -46,7 +45,7 @@ namespace ArrayGenerator
             }
         }
 
-        // Method for filling the created vector with random numbers
+        // Fill the vector with random numbers
         private void btnFillIn_Click(object sender, EventArgs e)
         {
             Random elements = new Random();
@@ -59,7 +58,7 @@ namespace ArrayGenerator
             }
         }
 
-        // Method to display the biggest value of the vector
+        // Display the biggest value of the vector
         private void btnBiggest_Click(object sender, EventArgs e)
         {
             int biggest = vector[0];
@@ -76,7 +75,7 @@ namespace ArrayGenerator
             lblResults.Text = biggest.ToString();
         }
 
-        // Method to display the lowest value of the vector
+        // Display the lowest value of the vector
         private void btnLowest_Click(object sender, EventArgs e)
         {
             int lowest = vector[0];
@@ -93,7 +92,7 @@ namespace ArrayGenerator
             lblResults.Text = lowest.ToString();
         }
 
-        // Method to count the number of zeros present in the vector
+        // Count the number of zeros present in the vector
         private void btnQtZeros_Click(object sender, EventArgs e)
         {
             int count = 0;
@@ -110,7 +109,7 @@ namespace ArrayGenerator
             lblResults.Text = count.ToString();
         }
 
-        // Method to calculate the average of the values present in the vector
+        // Calculate the average of the values present in the vector
         private void btnAverage_Click(object sender, EventArgs e)
         {
             int i, sum = 0;
