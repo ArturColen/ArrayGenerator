@@ -1,4 +1,4 @@
-# Creation of a student registration form
+# Student registration form
 
 Project developed during the Logic and Programming course at [Colégio Cotemig](https://www.cotemig.com.br/). The main objective of this program is to train the knowledge learned about vectors in C#.
 
