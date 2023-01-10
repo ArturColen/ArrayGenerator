@@ -3,10 +3,10 @@ Project developed during the Logic and Programming course at [Colégio Cotemig](
 
 ![Image of the array generator](https://user-images.githubusercontent.com/96635074/207228271-e12d4830-63f9-4b3b-a5bb-fae616ef0f19.png)
 
-# 🔨 Project functionality
+## 🔨 Project functionality
 The main function of this project is, when the user enters a value, to create a vector with random values from 0 to 100. It is also possible to know the biggest/lowestvalue in the array, the number of zeros, and the average.
 
-# 💻 Technologies used 
+## 💻 Technologies used 
 * [C#](https://learn.microsoft.com/pt-br/dotnet/csharp/): programming language
 * [.NET Framework](https://learn.microsoft.com/pt-br/dotnet/framework/): platform for developing and running systems and applications
 
