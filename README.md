@@ -22,6 +22,6 @@ The main function of this project is, when the user enters a value, to create a 
 * Wait a while until cloning is complete
 
 ### 3. Run the project
-* Click on `ArrayGenerator.sln` in the 'Solution Explorer' area (right side of the screen) 
+* Click on `ArrayGenerator.sln` in the `Solution Explorer` area (right side of the screen) 
 * Now, click on the arrow next to the `ArrayGenerator` and finally double-click on the `FrmArrayGenerator.cs`
 * When a screen similar to the one shown at the beginning of README.md appears, click `F5` on your keyboard or the `▶️ Start` button (top of the screen) to test the program
