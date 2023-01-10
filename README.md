@@ -12,7 +12,7 @@ The main function of this project is, when the user enters a value, to create a 
 
 ## 📁 Access and execute project
 ### 1. Install and configure [Visual Studio](https://visualstudio.microsoft.com/pt-br/downloads/) on your computer
-I recommend watching [this video](https://www.youtube.com/watch?v=KKaDlo1I21Y) to help you.
+* I recommend watching [this video](https://www.youtube.com/watch?v=KKaDlo1I21Y) to help you.
 
 ### 2. Clone [this repository](https://github.com/ArturColen/ArrayGenerator) on your machine
 * Create a folder on your computer for this program
