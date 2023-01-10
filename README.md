@@ -12,7 +12,7 @@ The main function of this project is, when the user enters a value, to create a 
 
 ## 📁 Access and execute project
 ### 1. Install and configure [Visual Studio](https://visualstudio.microsoft.com/pt-br/downloads/) on your computer
-* I recommend watching [this video](https://www.youtube.com/watch?v=KKaDlo1I21Y) to help you.
+* I recommend watching [this video](https://www.youtube.com/watch?v=KKaDlo1I21Y) to help you
 
 ### 2. Clone [this repository](https://github.com/ArturColen/ArrayGenerator) on your machine
 * Create a folder on your computer for this program
@@ -22,6 +22,6 @@ The main function of this project is, when the user enters a value, to create a 
 * Wait a while until cloning is complete
 
 ### 3. Run the project
-* Click on the folder that appears in `Solution Explorer` (right side of the screen) and then click on `ArrayGenerator.sln`
-* Now, click on the arrow next to the `ArrayGenerator` and finally double-click on the `FrmArrayGenerator`
+* Click on `ArrayGenerator.sln` in the 'Solution Explorer' area (right side of the screen) 
+* Now, click on the arrow next to the `ArrayGenerator` and finally double-click on the `FrmArrayGenerator.cs`
 * When a screen similar to the one shown at the beginning of README.md appears, click `F5` on your keyboard or the `▶️ Start` button (top of the screen) to test the program
